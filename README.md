@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gabriel Paz.
 - 👀 I’m interested in Learning!
-- 🌱 I’m currently learning JAVA, Python, C# and PHP.
+- 🌱 I’m currently learning Go and Aspx.net.
 - 💞️ I’m looking to collaborate on who needs.
 - 📫 How to reach me https://www.linkedin.com/in/gabriel-paz-paiva-117932207/
